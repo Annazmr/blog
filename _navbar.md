@@ -1,2 +1,4 @@
-* [En](/)
-* [中文](/zh-cn/)
+- [download](/download)
+- language
+  - [en](/)
+  - [中文](/zh-cn)
