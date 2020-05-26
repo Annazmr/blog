@@ -15,8 +15,9 @@
     window.$docsify = {
       name: 'blog_annazmr',
       loadSidebar: true,
+      loadSidebar: '_sidebar.md',
       loadNavbar: true,
-      // loadNavbar: '/_navbar.md',
+      loadNavbar: '_nav.md',
       auto2top: true,
       subMaxLevel: 4,
       relativePath: true,
@@ -29,9 +30,9 @@
         placeholder: '搜索',
         noData: "无结果"
       },
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
+      // alias: {
+      //   '/.*/_sidebar.md': '_side.md'
+      // },
       tabs: {
         sync: false,
       }
