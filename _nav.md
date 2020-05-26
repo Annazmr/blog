@@ -6,8 +6,8 @@
   * [Linux](guide)
 
 * Code
-  * [刷刷刷](../Code/刷刷刷/动态规划与贪心.md)
-  * [python]()
+  * [刷刷刷](../Code/刷刷刷/数组与链表.md)
+  * [python](../Code/python/python基础.md)
   * [C++]()
   * [Go]()
 
