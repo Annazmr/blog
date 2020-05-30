@@ -1,4 +1,4 @@
-**<center><font size=5>人工智能</font></center>**
+**人工智能**
 
 * **机器学习**
   * [过拟合与正则化](/人工智能/机器学习/过拟合与正则化.md)
@@ -15,7 +15,7 @@
 * **策略算法**
   * [策略算法基础](/人工智能/策略算法/策略算法基础.md)
 
-**<center><font size=5>笔记</font></center>**
+**笔记**
 
 
 * **工具笔记**
@@ -30,7 +30,7 @@
   * [iTerm](/Note/software/iTerm.md)
   * [MacSoftware](/Note/software/MacSoftware.md)
 
-**<center><font size=5>计算机基础</font></center>**
+**计算机基础**
 
 
   * **数据结构**
@@ -41,7 +41,7 @@
   * [数据库](/计算机基础/数据库.md)
   * [Linux](/计算机基础/Linux.md)
 
-**<center><font size=5>Code</font></center>**
+**Code**
 
 * **刷刷刷**
   * [数组与链表](/Code/刷刷刷/数组与链表.md)
@@ -60,7 +60,7 @@
 * **C++**
   * [C++](/Code/C++/C++基础.md)
 
-**<center><font size=5>杂记</font></center>**
+**杂记**
 
   * [生活](/杂记/生活.md)
   * [书籍](/杂记/书籍.md)
